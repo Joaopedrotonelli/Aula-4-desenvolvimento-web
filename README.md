@@ -1,2 +1,2 @@
-# Meu-Primeiro-HTML
-Repositório para aula 4 desnvolvimento web
+## Meu-Primeiro-HTML
+*Repositório com arquivo index.html para aula 4 desnvolvimento web*
